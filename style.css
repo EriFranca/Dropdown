@@ -225,7 +225,7 @@ body{
   width: calc(100% - 78px);
 }
 .home-content{
-  display: center;
+  display: flex;
   align-items: center;
   flex-wrap: wrap;
 }
